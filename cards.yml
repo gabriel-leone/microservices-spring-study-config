@@ -1,0 +1,8 @@
+build:
+  version: 3.0.0
+
+cards:
+  message: "Welcome to EazyBank Accounts Microservice!"
+  contactDetails:
+    email: "leonepgabriel@gmail.com"
+    name: "Gabriel Leone - Developer"
