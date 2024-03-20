@@ -4,5 +4,5 @@ build:
 accounts:
   message: "Welcome to EazyBank Accounts Microservice!"
   contactDetails:
-    email: "leonepgabriel@gmail.com"
+    email: "{cipher}512070dabfd02b577a34a91a41415f67d8b4a519894fde122e5aeeb1a8832faf1a5cbfc61504494c7712c33d0c3ef67b"
     name: "Gabriel Leone - Developer"
