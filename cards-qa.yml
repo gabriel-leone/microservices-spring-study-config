@@ -5,4 +5,4 @@ cards:
   message: "Welcome to EazyBank Cards QA Microservice!"
   contactDetails:
     email: "leonepgabriel@gmail.com"
-    name: "TESTE RABBITMQ - QA Lead"
+    name: "TESTE WEBHOOKS CARDS - QA Lead"
